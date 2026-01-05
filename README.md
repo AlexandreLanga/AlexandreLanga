@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Alexandre!
 
-<!--
-**AlexandreLanga/AlexandreLanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia e inovação  
+🚀 Focado em criar soluções práticas e inteligentes para problemas reais  
+🌍 Baseado em Chapecó, SC – sempre conectado com o mundo digital  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- **Back-end:** C#, C  
+- **Front-end:** Angular, TypeScript, HTML, CSS  
+- **Banco de Dados:** SQL Server, PostgreSQL, Oracle  
+- **Outros:** Git, APIs REST e RESTful  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- 🔹 [CRUD_DB]([link](https://github.com/AlexandreLanga/CRUD_DB))  
+
+## 🌱 Atualmente aprendendo
+- Boas práticas de DevOps e CI/CD  
+
+## 📫 Como me encontrar
+- LinkedIn: [Alexandre Langa]([link](https://www.linkedin.com/in/alexandre-langa-9b9092249/))    
+- Email: alelanga424@hotmail.com
+
+---
+⭐ Se curtir algum projeto, não esqueça de dar uma estrela!
