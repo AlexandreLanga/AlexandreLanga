@@ -15,7 +15,9 @@
 -  🔹 [TelemetryMachine]([link](https://github.com/AlexandreLanga/TelemetryMachine))
 
 ## 🌱 Atualmente aprendendo
-- Boas práticas de DevOps e CI/CD  
+- Boas práticas de DevOps e CI/CD
+- Revisão de clean code e OOP
+- Desenvolvimento de perfil profissional
 
 ## 📫 Endereço para contato 
 - Email: alelanga424@hotmail.com
