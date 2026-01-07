@@ -17,8 +17,7 @@
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD  
 
-## 📫 Como me encontrar
-- LinkedIn: [Alexandre Langa]([link](https://www.linkedin.com/in/alexandre-langa-9b9092249/))    
+## 📫 Endereço para contato 
 - Email: alelanga424@hotmail.com
 
 ---
