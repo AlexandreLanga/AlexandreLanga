@@ -12,7 +12,8 @@
 
 ## 📂 Projetos em destaque
 - 🔹 [CRUD_DB]([link](https://github.com/AlexandreLanga/CRUD_DB))
--  🔹 [TelemetryMachine]([link](https://github.com/AlexandreLanga/TelemetryMachine))
+- 🔹 [TelemetryMachine]([link](https://github.com/AlexandreLanga/TelemetryMachine))
+- 🔹 [minha-historia-na-web]([link](https://github.com/AlexandreLanga/minha-historia-na-web))
 
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD
