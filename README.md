@@ -17,6 +17,7 @@
 
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD
+- Java com Spring/Spring Boot, NodeJS, Delphi e MongoDB
 - Revisão de clean code e OOP
 - Desenvolvimento de perfil profissional
 
