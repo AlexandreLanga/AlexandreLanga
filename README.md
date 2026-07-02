@@ -5,7 +5,7 @@
 🌍 Baseado em Chapecó, SC – sempre conectado com o mundo digital  
 
 ## 🔧 Tecnologias e Ferramentas
-- **Back-end:** C#, C  
+- **Back-end:** C#, C, Python  
 - **Front-end:** Angular, TypeScript, HTML, CSS  
 - **Banco de Dados:** SQL Server, PostgreSQL, Oracle  
 - **Outros:** Git, APIs REST e RESTful  
