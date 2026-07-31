@@ -11,9 +11,10 @@
 - **Outros:** Git, APIs REST e RESTful  
 
 ## 📂 Projetos em destaque
-- 🔹 [CRUD_DB]([link](https://github.com/AlexandreLanga/CRUD_DB))
-- 🔹 [TelemetryMachine]([link](https://github.com/AlexandreLanga/TelemetryMachine))
-- 🔹 [minha-historia-na-web]([link](https://github.com/AlexandreLanga/minha-historia-na-web))
+- 🔹 [CRUD_DB](https://github.com/AlexandreLanga/CRUD_DB)
+- 🔹 [TelemetryMachine](https://github.com/AlexandreLanga/TelemetryMachine)
+- 🔹 [minha-historia-na-web](https://github.com/AlexandreLanga/minha-historia-na-web)
+- 🔹 [MiluAPI](https://github.com/AlexandreLanga/minha-historia-na-web)
 
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD
