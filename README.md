@@ -14,7 +14,7 @@
 - 🔹 [CRUD_DB](https://github.com/AlexandreLanga/CRUD_DB)
 - 🔹 [TelemetryMachine](https://github.com/AlexandreLanga/TelemetryMachine)
 - 🔹 [minha-historia-na-web](https://github.com/AlexandreLanga/minha-historia-na-web)
-- 🔹 [MiluAPI](https://github.com/AlexandreLanga/minha-historia-na-web)
+- 🔹 [MiluAPI](https://github.com/AlexandreLanga/MiluAPI)
 
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD
