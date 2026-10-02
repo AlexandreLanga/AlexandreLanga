@@ -15,6 +15,7 @@
 - 🔹 [TelemetryMachine](https://github.com/AlexandreLanga/TelemetryMachine)
 - 🔹 [minha-historia-na-web](https://github.com/AlexandreLanga/minha-historia-na-web)
 - 🔹 [MiluAPI](https://github.com/AlexandreLanga/MiluAPI)
+- 🔹 [Booker](https://github.com/AlexandreLanga/booker)
 
 ## 🌱 Atualmente aprendendo
 - Boas práticas de DevOps e CI/CD
