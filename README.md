@@ -45,7 +45,7 @@ Apaixonado por tecnologia, inovação e resolução de problemas complexos. Com 
 Portfólio pessoal com dashboard profissional, histórico de projetos, blog e informações pessoais.
 
 ### 🔹 **[MiluAPI](https://github.com/AlexandreLanga/MiluAPI)** – Assistente de IA do Minha História na Web
-API profissional desenvolvida com arquitetura em camadas, tratamento de erros, documentação e padrões RESTful.
+API integrada ao Google Gemini treinada para explicar mais sobre quem é o Alexandre e sobre o portfólio dele.
 
 ### 🔹 **[Booker](https://github.com/AlexandreLanga/booker)** – Ler livros e arquivos no seu computador de forma simples.
 Sistema que consome arquivos PDF, TXT e EPUB, e facilita a leitura com anotações e registro de progresso persistentes.
