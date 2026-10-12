@@ -41,7 +41,7 @@ Apaixonado por tecnologia, inovação e resolução de problemas complexos. Com 
 
 ## 📂 Projetos em Destaque
 
-### 🔹 **[Minha História na Web](https://github.com/AlexandreLanga/minha-historia-na-web)** – Portfólio Interativo
+### 🔹 **[Minha História na Web](https://minha-historia-na-web.vercel.app/)** – Portfólio Interativo
 Portfólio pessoal com dashboard profissional, histórico de projetos, blog e informações pessoais.
 
 ### 🔹 **[MiluAPI](https://github.com/AlexandreLanga/MiluAPI)** – Assistente de IA do Minha História na Web
